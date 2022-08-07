@@ -1,0 +1,23 @@
+#index-nag {
+  border: solid black 1px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+#text-atu{
+  font-size: 18px;
+  text-align: center;
+  padding: 0;
+  margin-top: 12px;
+}
+#index-logo {
+  width: 258px;
+  height: 64px;
+  background-image: url("../img/biu.png");
+  background-repeat: no-repeat;
+}
+
+.imgju{
+  background-image: ;
+}
